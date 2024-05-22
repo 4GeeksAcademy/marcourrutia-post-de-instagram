@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 25px;
+    border: 1px solid green;
+}
+
+.post-header {
+    height: 40px;
+    border: 1px solid red;
+}
+
+.post-img{
+    height: 350px;
+    border: 1px solid blue;
+}
+
+img {
+    width: 100%;
+    margin: 0 auto;    
+}
+
+.post-body{
+    height: 170px;
+    border: 1px solid red
+}
+
+.post-icons {
+    height: 40px;
+    border: 1px solid blue;
+}
+
