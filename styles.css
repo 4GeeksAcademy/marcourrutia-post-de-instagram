@@ -36,6 +36,16 @@ body {
     margin: 0;
 }
 
+.post-header .icons-header {
+    height: 30px;
+    border: 1px solid yelow;
+    width: 20%;
+    height: 25px;
+    padding: 3px;
+    float: right;
+    margin: 0;
+}
+
 .post-img{
     height: 350px;
     border: 1px solid blue;
