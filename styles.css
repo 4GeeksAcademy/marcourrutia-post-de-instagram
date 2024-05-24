@@ -16,14 +16,16 @@ body {
 
 .post-header {
     display: flex;
+    margin: 0;
     height: 40px;
+    padding: 5px;
     border: 1px solid red;
 }
 
 .post-header img {
     height: 35px;
     width: 35px;
-    padding: 3px;
+    margin: 2px;
     border-radius: 100%;
 }
 
@@ -32,18 +34,18 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
-    padding: 7px 3px;
-    margin: 0;
+    margin: 5px;
 }
 
-.post-header .icons-header {
+.icons-header {
     height: 30px;
-    border: 1px solid yelow;
-    width: 20%;
-    height: 25px;
-    padding: 3px;
-    float: right;
-    margin: 0;
+    border: 1px solid yellow;
+    width: 30px;
+    margin-left: 55%;
+}
+
+.icons-header i {
+    margin: 10px 10px 10px 15px;
 }
 
 .post-img{
